@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Shafi-Anwar
-- 👀 I’m interested in Web Development and App Development
-- Coding projects 
+- 👀 I’m interested in Data Science/ML engineering, Data engineering
+- Making models
