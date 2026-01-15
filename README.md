@@ -10,7 +10,7 @@
 ## 🌟 About Me
 - 🎓 Aspiring **Data Science & Machine Learning Engineer**
 - 💻 Full-Stack Developer using **TypeScript, Next.js, Node.js & Prisma**
-- 🗄️ Strong understanding of **MySQL & PostgreSQL**
+- 🗄️ Strong understanding of **MySQL
 - 📊 Data analysis & visualization using **Python & Seaborn**
 - 🧠 Hands-on experience with ML models & real-world datasets
 - 🚀 Passionate about building **data-driven and scalable applications**
