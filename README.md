@@ -2,12 +2,12 @@
 <h3 align="center">Aspiring Data Science & Machine Learning Engineer</h3>
 
 <p align="center">
-🧠 ML Enthusiast | 📊 Data Explorer | 🌐 Full-Stack Developer  
+🧠 ML Enthusiast | 📊 Data Scientist | 🌐 Full-Stack Developer  
 </p>
 
 ---
 
-## 🌟 About Me
+##  About Me
 - 🎓 Aspiring **Data Science & Machine Learning Engineer**
 - 💻 Full-Stack Developer using **TypeScript, Next.js, Node.js & Prisma**
 - 🗄️ Strong understanding of **MySQL
