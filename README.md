@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohammed Shafi Anwar(شفيع أنور)</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Shafi Anwar (شفيع أنور)</h1>
 <h3 align="center">Aspiring Data Science & Machine Learning Engineer</h3>
 
 <p align="center">
-🧠 ML Enthusiast | 📊 Data Scientist | 🌐 Full-Stack Developer  
+🧠 ML & Data Science Enthusiast | 📊 Building End-to-End ML Systems | 🌐 Full-Stack Developer (support skill)
 </p>
 
 ---
 
-##  About Me
+## About Me
 - 🎓 Aspiring **Data Science & Machine Learning Engineer**
-- 💻 Full-Stack Developer using **TypeScript, Next.js, Node.js & Prisma**
-- 🗄️ Strong understanding of **MySQL**
-- 📊 Data analysis & visualization using **Python & Seaborn**
-- 🧠 Hands-on experience with ML models & real-world datasets
-- 🚀 Passionate about building **data-driven and scalable applications**
+- 💻 Building **end-to-end ML systems** with Python, Scikit-Learn, and real-world datasets
+- 🗄️ Strong understanding of **SQL & data pipelines**
+- 📊 Data analysis & visualization using **Pandas & Seaborn**
+- 🌐 Experience with **Next.js & APIs** for deploying applications
+- 🚀 Passionate about **turning data into actionable insights and real-world applications**
 
 ---
 
@@ -30,7 +30,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
 
-### 🌐 Web Development
+### 🌐 Web Development (Supporting Skill)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -48,16 +48,16 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Data Science & Machine Learning
-- 📈 **House Price Prediction** using Regression Models
-- 🤖 **California Housing Price Prediction**
-- 📉 **Customer Churn Prediction** using Machine Learning
-- 📊 **Exploratory Data Analysis (EDA)** using Pandas & Seaborn
-- 🧠 ML models built with **Scikit-Learn**
+- 📈 **House Price Prediction** – Regression models with deployed API
+- 🤖 **California Housing Price Prediction** – End-to-end ML pipeline
+- 📉 **Customer Churn Prediction** – ML model + API integration
+- 📊 **Exploratory Data Analysis (EDA)** – Pandas & Seaborn insights on real datasets
+- 🧠 **ML models built with Scikit-Learn** for production-ready applications
 
-### 🌐 Web Development
-- 🌐 **Full-Stack Application using Next.js**
-- ⚡ Interactive frontend projects with React
-- 🗄️ Backend APIs with **TypeScript, Prisma & MySQL**
+### 🌐 Web Development (Supporting Skill)
+- 🌐 Full-Stack SaaS application built with **Next.js, TypeScript, Prisma & MySQL**
+- ⚡ Interactive frontends with React
+- 🗄️ Backend APIs for deploying ML & web apps
 
 ---
 
@@ -66,4 +66,4 @@
 
 ---
 
-✨ *“Learning. Building. Improving.”*
+✨ *“Turning data into insights, predictions, and real-world applications.”*
